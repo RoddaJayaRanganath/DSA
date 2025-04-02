@@ -11,6 +11,8 @@ void bubble_sort(struct node **head)
         {
             for(struct node *j = i->next;j!=NULL;j=j->next)
             {
+                // deal with the data;
+                // swap them, won't the touch the addresses to swap them;
                 if(i->data>j->data)
                 {
                     int tempdata = i->data;
