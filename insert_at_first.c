@@ -12,6 +12,7 @@ void insert_at_last(struct node **head,int deta)
     }
     else
     {
+        // adding every node at first;
         neww->next = *head;
         *head = neww;
     }
