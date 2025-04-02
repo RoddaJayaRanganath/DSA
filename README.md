@@ -1,2 +1,2 @@
-# DSA
-data structures and algorithms
+# DSA - SINGLY_LINKED_LIST
+// MAX AMOUNT OF PROBLEMS ASKED IN INTERVIEWS;
